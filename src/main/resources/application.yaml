@@ -1,0 +1,2 @@
+service:
+  mappings: {"Key1": "Password1", "Key2": "Password2", "Key3": "Password3"}
